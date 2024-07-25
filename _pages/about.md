@@ -43,6 +43,16 @@ For more information, please refer to my CV.
 
 Thank you for visiting my page, and I hope to cross paths with you soon!
 
+---
+
+#### Research Interests
+
+Learning, Choice Modeling, and Platform Management.
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YCvn1gfc-4Zcm16_59Td8Q8TVKH7BBu_xwEpz1zuH8E&cl=ffffff&w=200&h=150"></script>
+
+
 
 <!--
 
