@@ -29,7 +29,7 @@ at the National University of Singapore (NUS).
 My advisors are [Prof. Yifan Feng](https://sites.google.com/view/yifanfeng/?pli=1&authuser=1) and [Prof. Xiaobo Li](https://sites.google.com/site/lixiaobohome/home?authuser=1).
 
 
-Prior to joining NUS, I received my master's degree in Industrial Engineering and Operations Research ([IEOR](https://ieor.columbia.edu/)) at Columbia University and my bachelor's degree in Financial Engineering ([School of Management and Science](https://sme.nju.edu.cn/main.htm) from Nanjing University.
+Prior to joining NUS, I received my master's degree in Industrial Engineering and Operations Research ([IEOR](https://ieor.columbia.edu/)) at Columbia University and my bachelor's degree in Financial Engineering ([School of Management and Engineering](https://sme.nju.edu.cn/main.htm) from Nanjing University.
 
 <!--
 
