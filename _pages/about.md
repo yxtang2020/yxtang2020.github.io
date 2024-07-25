@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -10,12 +10,14 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p style="font-size:12px; color:grey">Singapore</p>
+    <p style="font-size:12px; color:grey">yuxuan[dot]tang[at]u[dot]nus[dot]edu</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+---
+
 ---
 
 This is Yuxuan,\\
@@ -26,8 +28,13 @@ at the National University of Singapore (NUS).
 
 My advisors are [Prof. Yifan Feng](https://sites.google.com/view/yifanfeng/?pli=1&authuser=1) and [Prof. Xiaobo Li](https://sites.google.com/site/lixiaobohome/home?authuser=1).
 
-Prior to joining NUS, I received my master's degree in Industrial Engineering and Operations Research at Columbia University and my bachelor's degree in Financial Engineering (School of Management and Science) from Nanjing University.
+
+Prior to joining NUS, I received my master's degree in Industrial Engineering and Operations Research ([IEOR](https://ieor.columbia.edu/)) at Columbia University and my bachelor's degree in Financial Engineering ([School of Management and Science](https://sme.nju.edu.cn/main.htm) from Nanjing University.
+
+<!--
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+-->
