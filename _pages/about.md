@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-This is Yuxuan,\\
+Hello! This is Yuxuan,\\
 a fifth-year Ph.D. candidate,\\
 in [Institute of Operations Research and Analytics (IORA)](https://iora.nus.edu.sg/),\\
 at the National University of Singapore (NUS).
