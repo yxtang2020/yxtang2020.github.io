@@ -9,8 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <!--
     <p>555 your office number</p>
     <p style="font-size:12px; color:grey">Singapore</p>
+    -->
     <p style="font-size:12px; color:grey">yuxuan[dot]tang[at]u[dot]nus[dot]edu</p>
 
 news: true # includes a list of news items
