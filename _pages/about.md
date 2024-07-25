@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -18,7 +18,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-safs. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+This is Yuxuan,\\
+a fifth-year Ph.D. candidate,\\
+in [Institute of Operations Research and Analytics (IORA)](https://iora.nus.edu.sg/),\\
+at the National University of Singapore (NUS).
+
+
+My advisors are [Prof. Yifan Feng](https://sites.google.com/view/yifanfeng/?pli=1&authuser=1) and [Prof. Xiaobo Li](https://sites.google.com/site/lixiaobohome/home?authuser=1).
+
+Prior to joining NUS, I received my master's degree in Industrial Engineering and Operations Research at Columbia University and my bachelor's degree in Financial Engineering (School of Management and Science) from Nanjing University.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
