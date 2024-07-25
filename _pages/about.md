@@ -27,21 +27,23 @@ a fifth-year Ph.D. candidate,\\
 in [Institute of Operations Research and Analytics (IORA)](https://iora.nus.edu.sg/),\\
 at the National University of Singapore (NUS). 
 <br/>
-
+<br/>
 
 My advisors are [Prof. Yifan Feng](https://sites.google.com/view/yifanfeng/?pli=1&authuser=1) and [Prof. Xiaobo Li](https://sites.google.com/site/lixiaobohome/home?authuser=1). 
 <br/>
-
+<br/>
 
 Prior to joining NUS, I received my master's degree in Industrial Engineering and Operations Research ([IEOR](https://ieor.columbia.edu/)) at Columbia University and my bachelor's degree in Financial Engineering ([School of Management and Engineering](https://sme.nju.edu.cn/main.htm)) from Nanjing University. 
 <br/>
-
+<br/>
 
 For more information, please refer to my CV. 
+<br/>
 <br/>
 
 
 Thank you for visiting my page, and I hope to cross paths with you soon!
+<br/>
 
 ---
 
@@ -50,8 +52,9 @@ Thank you for visiting my page, and I hope to cross paths with you soon!
 Learning, Choice Modeling, and Platform Management.
 
 
+<!--
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YCvn1gfc-4Zcm16_59Td8Q8TVKH7BBu_xwEpz1zuH8E&cl=ffffff&w=200&h=150"></script>
-
+-->
 
 
 <!--
