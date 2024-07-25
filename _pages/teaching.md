@@ -1,12 +1,14 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: <!-- Materials for courses you taught. Replace this text with your description. -->
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### Teaching Assistant, Business School @ NUS  
 
-Organize your courses by years, topics, or universities, however you like!
+- DBA4712 Causal Analytics for Managerial Decisions (BBA spec. Bus. Analytics), Fall 2021
+- DBA5109 Quantitative Risk Management (MS in Bus. Analytics), Spring 2022
+- DBA3713 Analytics for Risk Management (BBA spec. Bus. Analytics), Spring 2022
