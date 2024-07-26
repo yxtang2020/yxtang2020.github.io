@@ -1,6 +1,4 @@
-// Has to be in the head tag, otherwise a flicker effect will occur.
-
-// Toggle through light and dark theme settings.
+// Toggle between light and dark theme settings.
 let toggleThemeSetting = () => {
   let themeSetting = determineThemeSetting();
   if (themeSetting == "light") {
@@ -27,6 +25,7 @@ let applyTheme = () => {
   setHighlight(theme);
   setGiscusTheme(theme);
   setSearchTheme(theme);
+  updateToggleIcon(theme);
 
   // if mermaid is not defined, do nothing
   if (typeof mermaid !== "undefined") {
@@ -206,8 +205,8 @@ let transTheme = () => {
 // Determine the expected state of the theme toggle, which can be "dark" or "light". Default is "light".
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
-  if (themeSetting != "dark" && themeSetting != "light") {
-    themeSetting = "light";
+  if (themeSetting != "dark" && themeSetting != "light") { // Removed "system"
+    themeSetting = "light"; // Default is now "light"
   }
   return themeSetting;
 };
@@ -215,7 +214,16 @@ let determineThemeSetting = () => {
 // Determine the computed theme, which can be "dark" or "light". The computed theme is determined based on the user's selection.
 let determineComputedTheme = () => {
   let themeSetting = determineThemeSetting();
-  return themeSetting;
+  return themeSetting; // Only returns user selection
+};
+
+let updateToggleIcon = (theme) => {
+  const mode_toggle = document.getElementById("light-toggle");
+  if (theme === "dark") {
+    mode_toggle.innerHTML = "&#9728;"; // Sun icon
+  } else {
+    mode_toggle.innerHTML = "&#9790;"; // Moon icon
+  }
 };
 
 let initTheme = () => {
@@ -231,6 +239,10 @@ let initTheme = () => {
       toggleThemeSetting();
     });
   });
-};
 
+  // Removed event listener for system theme preference change
+  // window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", ({ matches }) => {
+  //   applyTheme();
+  // });
+};
 
