@@ -49,7 +49,7 @@ Thank you for visiting my page, and I hope to cross paths with you soon!
 
 #### Research Interests
 
-Learning, Choice Modeling, and Platform Management.
+Data-Driven Decision Making, Learning, Choice Modeling, and Platform Management.
 
 
 <!--
