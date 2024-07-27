@@ -13,6 +13,7 @@ nav_order: 3
 
 - INFORMS Annual Meeting 2024, Seattle, Washington, Oct., 2024
 
+<br/>
 
 #### A Mallows-type Model for Preference Learning from (Ranked) Choices
 
