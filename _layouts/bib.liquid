@@ -189,12 +189,12 @@
 
     <!-- Links/Buttons -->
     <div class="links">
-      {% if entry.conference %}
-        <a href="{{ entry.conference }}" class="btn btn-sm z-depth-0" role="button">Conference</a>
+      {% if entry.conference_link %}
+        <a href="{{ entry.conference_link }}" class="btn btn-sm z-depth-0" role="button">Conference</a>
       {% endif %}
 
-      {% if entry.journal %}
-        <a href="{{ entry.journal }}" class="btn btn-sm z-depth-0" role="button">Journal</a>
+      {% if entry.journal_link %}
+        <a href="{{ entry.journal_link }}" class="btn btn-sm z-depth-0" role="button">Journal</a>
       {% endif %}
 
       {% if entry.award %}
