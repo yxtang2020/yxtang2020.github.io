@@ -133,6 +133,14 @@
           {{- more_authors_hide -}}
         </span>
       {% endif %}
+
+      {% if entry.coauthors_list -%}
+        <div class="coauthors_list" style="margin-left: 20px; font-family: verdana; font-size: 14px; color: inherit;">
+          {{ entry.coauthors_list | markdownify }}
+        </div>
+      {%- endif -%}
+
+
       {% if entry.annotation %}
         <i
           class="fa-solid fa-circle-info ml-1"
