@@ -343,10 +343,12 @@ filtered_bibtex_keywords:
   [
     abbr,
     abstract,
+    prelim,
     additional_info,
     altmetric,
     annotation,
     arxiv,
+    ssrn,
     award,
     award_name,
     bibtex_show,
