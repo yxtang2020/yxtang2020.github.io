@@ -247,6 +247,9 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
+      {% if entry.conference %}
+        <a href="{{ entry.conference }}" class="btn btn-sm z-depth-0" role="button">Conference</a>
+      {% endif %}
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
@@ -358,9 +361,7 @@
     {% if entry.award3 -%}
         <span style="margin-left: 20px; font-family:verdana; font-size:14px; color:#0076df">- {{ entry.award3 }} <br></span>
     {%- endif -%}
-    {% if entry.conference -%}
-        <span style="margin-left: 20px; font-family:verdana; font-size:14px; color:#0076df">- {{ entry.conference }} <br></span>
-    {%- endif -%}
+    
       
   </div>
 </div>
