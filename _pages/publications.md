@@ -13,7 +13,7 @@ nav_order: 2
 
 **Data-Driven Decision Making, Learning, Choice Modeling, and Platform Management.**
 
-{% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %} -->
 
 <div class="publications">
 
