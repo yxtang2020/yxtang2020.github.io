@@ -365,6 +365,10 @@
     {%- if entry.progress -%}
       <div class="progresstarget">{{entry.progress}} <em>{{entry.target}}</em></div>
       {%- endif -%}
+
+    {%- if entry.ssrn %}
+        <a href="{{ entry.ssrn }}" class="btn btn-sm z-depth-0" role="button">SSRN</a>
+      {%- endif %}
     
       
   </div>
