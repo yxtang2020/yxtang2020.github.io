@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Research
-description: Data-Driven Decision Making, Learning, Choice Modeling, and Platform Management.
+description: **Data-Driven Decision Making, Learning, Choice Modeling, and Platform Management.**
 nav: true
 nav_order: 2
 ---
