@@ -361,6 +361,10 @@
     {% if entry.award3 -%}
         <span style="margin-left: 20px; font-family:verdana; font-size:14px; color:#0076df">- {{ entry.award3 }} <br></span>
     {%- endif -%}
+
+    {%- if entry.progress -%}
+      <div class="progresstarget">{{entry.progress}} <em>{{entry.target}}</em></div>
+      {%- endif -%}
     
       
   </div>
