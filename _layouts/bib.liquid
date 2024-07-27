@@ -135,10 +135,12 @@
       {% endif %}
 
       {% if entry.coauthors_list -%}
-        <div class="coauthors_list" style="margin-left: 20px; font-family: verdana; font-size: 14px; color: inherit;">
+        <div class="coauthors_list">
           {{ entry.coauthors_list | markdownify }}
         </div>
       {%- endif -%}
+
+
 
 
       {% if entry.annotation %}
