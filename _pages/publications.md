@@ -11,7 +11,7 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-** Data-Driven Decision Making, Learning, Choice Modeling, and Platform Management. **
+**Data-Driven Decision Making, Learning, Choice Modeling, and Platform Management.**
 
 {% include bib_search.liquid %}
 
