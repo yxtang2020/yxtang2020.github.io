@@ -11,7 +11,9 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-**Data-Driven Decision Making, Learning, Choice Modeling, and Platform Management.**
+**Methodologies:** Probabilistic Ranking Model, Sequential Experimental Design, Data Analytics, Discrete Choice Modelling
+
+**Applications:** Preference Representation and Learning, Retailing Platform Management, Revenue Management
 
 ---
 
