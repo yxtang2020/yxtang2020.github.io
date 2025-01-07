@@ -11,12 +11,14 @@ nav_order: 3
 
 #### Add to Order in Contingent Free Shipping
 
+- POMS-HK 2025, Hong Kong, Jan., 2025
 - INFORMS Annual Meeting 2024, Seattle, Washington, Oct., 2024
 
 <br/>
 
 #### A Mallows-type Model for Preference Learning from (Ranked) Choices
 
+- POMS-HK 2025, Hong Kong, Jan., 2025
 - POMS-HK 2024, Hong Kong, Jan., 2024
 - INFORMS Annual Meeting 2023, Phoenix, Arizona, Oct., 2023
 - The 15th CSAMSE International Conference, Shenzhen, China, July, 2023
