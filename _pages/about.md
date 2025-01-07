@@ -49,7 +49,7 @@ Thank you for visiting my page, and I hope to cross paths with you soon!
 
 #### Research Interests
 
-Data-Driven Decision Making, Learning, Choice Modeling, and Platform Management.
+Machine Learning, AI, Data-Driven Decision Making, Learning, Choice Modeling, and Platform Management.
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=ZjZdVSfDk4Pewin3AFx3d4DA2jsBr9ozYvcJ0_yHSQo&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
