@@ -43,14 +43,13 @@ For more information, please refer to my CV.
 
 
 
-<br/>
-
+<!--
 ---
 
 #### Research Interests
 
 Machine Learning, AI, Data-Driven Decision Making, Learning, Choice Modeling, and Online Platform Operations.
-
+-->
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=ZjZdVSfDk4Pewin3AFx3d4DA2jsBr9ozYvcJ0_yHSQo&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 
