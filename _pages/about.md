@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle: Thank you for visiting my page, and I hope to cross paths with you soon!
 
 profile:
   align: right
@@ -42,7 +42,7 @@ For more information, please refer to my CV.
 <br/>
 
 
-Thank you for visiting my page, and I hope to cross paths with you soon!
+
 <br/>
 
 ---
