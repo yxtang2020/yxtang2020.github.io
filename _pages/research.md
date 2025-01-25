@@ -34,7 +34,9 @@ nav_order: 2
   - Preliminary version accepted at Advances in Neural Information Processing Systems 35 (NeurIPS '22), 2022
   - Finalist, POMS-HK Best Student Paper Award Competition, 2025
   - Third Prize, CSAMSE Best Paper Award Competition, 2023
-  
+
+<br>  
+
 - Add to Order in Contingent Free Shipping on Online Grocery Platforms, with [Xiaobo Li](https://sites.google.com/site/lixiaobohome/home?authuser=1), [Rowan Wang](https://www.sustech.edu.cn/en/faculties/rowan-wang.html) and [Xuan Wang](https://isom.hkust.edu.hk/faculty-and-staff/directory/xuanwang)
 
   Under Review
@@ -42,8 +44,6 @@ nav_order: 2
 <br/>
 
 ### Work in Progress
-
-
 
 - Parameterizing the DAG-based Preference with Optimal Pricing Decision, with [Xiaobo Li](https://sites.google.com/site/lixiaobohome/home?authuser=1) and [Shuo Wang](https://www.linkedin.com/in/shuo-wang-942aa8b9/)
 
