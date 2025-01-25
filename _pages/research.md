@@ -24,7 +24,7 @@ nav_order: 2
  
 <br/>
 
-### Paper under Review
+### Working Papers
 
 
 - **[A Mallows-type Model for Preference Learning from (Ranked) Choices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4539900)**, with [Yifan Feng](https://sites.google.com/view/yifanfeng/?pli=1&authuser=1)
@@ -35,13 +35,15 @@ nav_order: 2
   - Finalist, POMS-HK Best Student Paper Award Competition, 2025
   - Third Prize, CSAMSE Best Paper Award Competition, 2023
   
+- Add to Order in Contingent Free Shipping on Online Grocery Platforms, with [Xiaobo Li](https://sites.google.com/site/lixiaobohome/home?authuser=1), [Rowan Wang](https://www.sustech.edu.cn/en/faculties/rowan-wang.html) and [Xuan Wang](https://isom.hkust.edu.hk/faculty-and-staff/directory/xuanwang)
 
+  Under Review
 
 <br/>
 
 ### Work in Progress
 
-- Add to Order in Contingent Free Shipping on Online Platforms, with [Xiaobo Li](https://sites.google.com/site/lixiaobohome/home?authuser=1), [Rowan Wang](https://www.sustech.edu.cn/en/faculties/rowan-wang.html) and [Xuan Wang](https://isom.hkust.edu.hk/faculty-and-staff/directory/xuanwang)
+
 
 - Parameterizing the DAG-based Preference with Optimal Pricing Decision, with [Xiaobo Li](https://sites.google.com/site/lixiaobohome/home?authuser=1) and [Shuo Wang](https://www.linkedin.com/in/shuo-wang-942aa8b9/)
 
