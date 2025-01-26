@@ -8,8 +8,8 @@ nav_order: 4
 ---
 
 ---
-#### Teaching Assistant, Business School @ NUS  
 
+#### Teaching Assistant, Business School @ NUS
 
 - DBA4712 Causal Analytics for Managerial Decisions (BBA spec. Bus. Analytics), Fall 2021
 - DBA5109 Quantitative Risk Management (MS in Bus. Analytics), Spring 2022
