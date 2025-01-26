@@ -25,7 +25,7 @@ nav_order: 2
 <span style="font-family: Arial, Helvetica, sans-serif; color: blue; font-size: 2em;">Published Papers</span>
 -->
 
-- **[<span style="color: blue;">On a Mallows-type Model for (Ranked) Choices</span>](https://papers.nips.cc/paper_files/paper/2022/hash/145c28cd4b1df9b426990fd68045f4f7-Abstract-Conference.html)**, with [Yifan Feng](https://sites.google.com/view/yifanfeng/?pli=1&authuser=1)
+- **[On a Mallows-type Model for (Ranked) Choices](https://papers.nips.cc/paper_files/paper/2022/hash/145c28cd4b1df9b426990fd68045f4f7-Abstract-Conference.html)**, with [Yifan Feng](https://sites.google.com/view/yifanfeng/?pli=1&authuser=1)
 
   Advances in Neural Information Processing Systems, 35, 2022: 3052--3065  (**NeurIPS '22**)
  
