@@ -16,12 +16,11 @@ nav_order: 5
 - NUS Research Scholarship, 2020-2024
 
 <!--
-- Second Prize, China High School Mathematical Olympiad (Provincial) 
-- Third Prize, China High School Biology Olympiad (Provincial) 
+- Second Prize, China High School Mathematical Olympiad (Provincial)
+- Third Prize, China High School Biology Olympiad (Provincial)
 -->
 
 <br/>
-
 
 #### More About Me
 
