@@ -25,26 +25,23 @@ social: false # includes social icons at the bottom of the page
 Hello! This is Yuxuan,\\
 a fifth-year Ph.D. candidate,\\
 in [Institute of Operations Research and Analytics (IORA)](https://iora.nus.edu.sg/),\\
-at the National University of Singapore (NUS). 
+at the National University of Singapore (NUS).
 <br/>
 <br/>
 
-My advisors are [Prof. Yifan Feng](https://sites.google.com/view/yifanfeng/?pli=1&authuser=1) and [Prof. Xiaobo Li](https://sites.google.com/site/lixiaobohome/home?authuser=1). 
+My advisors are [Prof. Yifan Feng](https://sites.google.com/view/yifanfeng/?pli=1&authuser=1) and [Prof. Xiaobo Li](https://sites.google.com/site/lixiaobohome/home?authuser=1).
 <br/>
 <br/>
 
-Prior to joining NUS, I received my master's degree in Industrial Engineering and Operations Research ([IEOR](https://ieor.columbia.edu/)) at Columbia University and my bachelor's degree in Financial Engineering ([School of Management and Engineering](https://sme.nju.edu.cn/main.htm)) from Nanjing University. 
+Prior to joining NUS, I received my master's degree in Industrial Engineering and Operations Research ([IEOR](https://ieor.columbia.edu/)) at Columbia University and my bachelor's degree in Financial Engineering ([School of Management and Engineering](https://sme.nju.edu.cn/main.htm)) from Nanjing University.
 <br/>
 <br/>
 
-For more information, please refer to my CV. 
+For more information, please refer to my CV.
 <br/>
 <br/>
 
-
-
-<!--
----
+## <!--
 
 #### Research Interests
 
@@ -52,7 +49,6 @@ Machine Learning, AI, Data-Driven Decision Making, Learning, Choice Modeling, an
 -->
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=ZjZdVSfDk4Pewin3AFx3d4DA2jsBr9ozYvcJ0_yHSQo&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
-
 
 <!--
 
