@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /research/
 title: Research
-description: A commitment to data-driven, application-oriented and interdisciplinary research.
+description: A commitment to data-driven, practice-oriented, and interdisciplinary research.
 nav: true
 nav_order: 2
 ---
