@@ -38,6 +38,6 @@ nav_order: 5
 - During my PhD period, two of my friends are absolutely buffet killers (names upon request). Under their strict requirements and dedicated guidance, I am also on my way to becoming a buffet legend!
 - I enjoy being in the kitchen; cooking relaxes me. I'm confident I can make delicious dishes on my first try.
 - In my daily life, I enjoy eating healthy food, but I also love spicy hot pot.
-- Since 2023, I have been consistently doing strength training (although there are still no obvious signs of it yet...).
+- Since 2023, I have been consistently doing strength training (although there are still no very obvious signs of it yet...).
 
 -->
