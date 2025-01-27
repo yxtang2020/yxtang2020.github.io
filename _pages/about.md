@@ -6,7 +6,7 @@ subtitle: Thank you for visiting my page, and I hope to cross paths with you soo
 
 profile:
   align: right
-  image: /assets/images/photo.jpg
+  image: photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <!--
