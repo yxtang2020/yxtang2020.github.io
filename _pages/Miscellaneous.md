@@ -28,7 +28,7 @@ nav_order: 5
 - <p style="line-height: 1.2;"> During my PhD period, two of my friends are absolutely buffet killers (names upon request). Under their strict requirements and dedicated guidance, I am also on my way to becoming a buffet legend!</p>
 - <p style="line-height: 1.2;"> I enjoy being in the kitchen; cooking relaxes me. I'm confident I can make delicious dishes on my first try.</p>
 - <p style="line-height: 1.2;"> In my daily life, I enjoy eating healthy food, but I also love spicy hot pot.</p>
-- <p style="line-height: 1.2;"> Since 2023, I have been consistently doing strength training.</p> 
+- <p style="line-height: 1.2;"> Since 2023, I have been consistently doing strength training.</p>
 
 <!--
 <br/>
