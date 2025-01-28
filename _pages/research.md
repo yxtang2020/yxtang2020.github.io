@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: A commitment to data-driven, practice-oriented, and interdisciplinary research.
+quote: A commitment to data-driven, practice-oriented, and interdisciplinary research.
 nav: true
 nav_order: 2
 ---
