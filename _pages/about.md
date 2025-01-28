@@ -21,11 +21,11 @@ social: false # includes social icons at the bottom of the page
 ---
 
 ---
-<div style="font-size: 20px;">
+<div style="font-size: 18px;">
   
 Hello! This is Yuxuan,\\
 a fifth-year Ph.D. candidate,\\
-in [Institute of Operations Research and Analytics (IORA)](https://iora.nus.edu.sg/),\\
+in <a href="https://iora.nus.edu.sg/">Institute of Operations Research and Analytics (IORA)</a> ,\\
 at the National University of Singapore (NUS).
 <br/>
 <br/>
