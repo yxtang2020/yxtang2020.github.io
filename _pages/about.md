@@ -21,7 +21,8 @@ social: false # includes social icons at the bottom of the page
 ---
 
 ---
-
+<div style="font-size: 20px;">
+  
 Hello! This is Yuxuan,\\
 a fifth-year Ph.D. candidate,\\
 in [Institute of Operations Research and Analytics (IORA)](https://iora.nus.edu.sg/),\\
@@ -40,6 +41,8 @@ Prior to joining NUS, I received my master's degree in Industrial Engineering an
 For more information, please refer to my CV.
 <br/>
 <br/>
+
+</div>
 
 <!--
 
