@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-<div>
+<div style="font-size: 18px; line-height: 1.6;">
   <div>
     <strong>Methodologies:</strong> Machine Learning, AI, Data Driven Modelling, Sequential Experimental Design, Choice Model
   </div>
@@ -15,64 +15,65 @@ nav_order: 2
     <strong>Applications:</strong> Preference Learning, Retailing, Revenue Management
   </div>
 
-  <hr/>
+  <hr style="margin-top: 15px; margin-bottom: 15px;" />
 
-  <div style="margin-top: 20px;">
-    <h3>Published Papers</h3>
+  <div style="margin-top: 10px;">
+    <h3 style="font-size: 24px; margin-bottom: 10px;">Published Papers</h3>
   </div>
 
-  <div style="margin-bottom: 20px;">
-    <ul>
+  <div style="margin-bottom: 15px;">
+    <ul style="margin: 0; padding-left: 20px;">
       <li>
         <strong>
           <a href="https://papers.nips.cc/paper_files/paper/2022/hash/145c28cd4b1df9b426990fd68045f4f7-Abstract-Conference.html">
             On a Mallows-type Model for (Ranked) Choices
           </a>
         </strong>, with
-        <a href="https://sites.google.com/view/yifanfeng/?pli=1&authuser=1">Yifan Feng</a><br/>
+        <a href="https://sites.google.com/view/yifanfeng/?pli=1&authuser=1">Yifan Feng</a><br />
         Advances in Neural Information Processing Systems, 35, 2022: 3052--3065 (<strong>NeurIPS '22</strong>)
       </li>
     </ul>
   </div>
-	<br/><br/>
+
+<br />
   <div>
-    <h3>Working Papers</h3>
+    <h3 style="font-size: 24px; margin-bottom: 10px;">Working Papers</h3>
   </div>
 
-  <div style="margin-bottom: 20px;">
-    <ul>
+  <div style="margin-bottom: 15px;">
+    <ul style="margin: 0; padding-left: 20px;">
       <li>
         <strong>
           <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4539900">
             A Mallows-type Model for Preference Learning from (Ranked) Choices
           </a>
         </strong>, with
-        <a href="https://sites.google.com/view/yifanfeng/?pli=1&authuser=1">Yifan Feng</a><br/>
+        <a href="https://sites.google.com/view/yifanfeng/?pli=1&authuser=1">Yifan Feng</a><br />
         Under Revision at <strong>Management Science</strong>
-        <ul>
+        <ul style="margin-top: 5px;">
           <li>Preliminary version accepted at Advances in Neural Information Processing Systems 35 (NeurIPS '22), 2022</li>
           <li>Finalist, POMS-HK Best Student Paper Award Competition, 2025</li>
           <li>Third Prize, CSAMSE Best Paper Award Competition, 2023</li>
         </ul>
       </li>
-      <br/>
-      <li>
+	<br />
+      <li style="margin-top: 10px;">
         Add to Order in Contingent Free Shipping on Online Grocery Platforms, with 
         <a href="https://sites.google.com/site/lixiaobohome/home?authuser=1">Xiaobo Li</a>, 
         <a href="https://www.sustech.edu.cn/en/faculties/rowan-wang.html">Rowan Wang</a>, and 
-        <a href="https://isom.hkust.edu.hk/faculty-and-staff/directory/xuanwang">Xuan Wang</a><br/>
+        <a href="https://isom.hkust.edu.hk/faculty-and-staff/directory/xuanwang">Xuan Wang</a><br />
         Under Review
       </li>
     </ul>
   </div>
 
-  <br/><br/>
+<br />
   <div>
-    <h3>Work in Progress</h3>
+    <h3 style="font-size: 24px; margin-bottom: 10px;">Work in Progress</h3>
   </div>
 
   <div>
-    <ul>
+    <ul style="margin: 0; padding-left: 20px;">
       <li>
         Parameterizing the DAG-based Preference with Optimal Pricing Decision, with 
         <a href="https://sites.google.com/site/lixiaobohome/home?authuser=1">Xiaobo Li</a> and 
@@ -81,6 +82,7 @@ nav_order: 2
     </ul>
   </div>
 </div>
+
 
 
 <!--
