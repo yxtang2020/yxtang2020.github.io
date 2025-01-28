@@ -11,7 +11,7 @@ nav_order: 4
 
 
 <div style="font-size: 18px; line-height: 1.6;">
-  <div style="font-size: 22px; font-weight: bold; margin-bottom: 10px;">
+  <div style="font-size: 22px; font-weight: 600; margin-bottom: 10px;">
     Teaching Assistant, Business School @ NUS
   </div>
   <div>
@@ -22,6 +22,7 @@ nav_order: 4
     </ul>
   </div>
 </div>
+
 
 <!--
 #### Teaching Assistant, Business School @ NUS
