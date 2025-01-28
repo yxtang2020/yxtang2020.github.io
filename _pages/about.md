@@ -23,18 +23,19 @@ social: false # includes social icons at the bottom of the page
 ---
 <div style="font-size: 18px;">
   
-Hello! This is Yuxuan,\\
-a fifth-year Ph.D. candidate,\\
-in <a href="https://iora.nus.edu.sg/">Institute of Operations Research and Analytics (IORA)</a> ,\\
+Hello! This is Yuxuan, <br>
+a fifth-year Ph.D. candidate,<br>
+in <a href="https://iora.nus.edu.sg/">Institute of Operations Research and Analytics (IORA)</a> ,<br>
 at the National University of Singapore (NUS).
 <br/>
 <br/>
 
-My advisors are [Prof. Yifan Feng](https://sites.google.com/view/yifanfeng/?pli=1&authuser=1) and [Prof. Xiaobo Li](https://sites.google.com/site/lixiaobohome/home?authuser=1).
+My advisors are <a href="https://sites.google.com/view/yifanfeng/?pli=1&authuser=1">Prof. Yifan Feng</a> and 
+<a href="https://sites.google.com/site/lixiaobohome/home?authuser=1">Prof. Xiaobo Li</a>.
 <br/>
 <br/>
 
-Prior to joining NUS, I received my master's degree in Industrial Engineering and Operations Research ([IEOR](https://ieor.columbia.edu/)) at Columbia University and my bachelor's degree in Financial Engineering ([School of Management and Engineering](https://sme.nju.edu.cn/main.htm)) from Nanjing University.
+Prior to joining NUS, I received my master's degree in Industrial Engineering and Operations Research <a href="https://ieor.columbia.edu/">(IEOR)</a> at Columbia University and my bachelor's degree in Financial Engineering <a href="https://sme.nju.edu.cn/main.htm">(School of Management and Engineering)</a> from Nanjing University.
 <br/>
 <br/>
 
