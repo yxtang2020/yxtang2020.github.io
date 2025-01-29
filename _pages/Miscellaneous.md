@@ -39,16 +39,50 @@ nav_order: 5
   </div>
 </div>
 
+  
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; margin-top: 20px;">
+  <!-- 第一张图片 -->
+  <div style="text-align: center; flex: 1;">
+    <img src="../assets/img/liaoning.jpg" alt="January 2025" style="width: 100%; border-radius: 10px;" />
+    <p style="margin-top: 5px; font-size: 16px;">My Hometown, Jan. 2025</p>
+  </div>
+  
+  <!-- 第二张图片 -->
+  <div style="text-align: center; flex: 1;">
+    <img src="../assets/img/buffet.jpg" alt="Buffet Legend" style="width: 100%; border-radius: 10px;" />
+    <p style="margin-top: 5px; font-size: 16px;">Buffet Legend</p>
+  </div>
+  
+  <!-- 第三张图片 -->
+  <div style="text-align: center; flex: 1;">
+    <img src="../assets/img/1.jpg" alt="Photo 3" style="width: 100%; border-radius: 10px;" />
+    <p style="margin-top: 5px; font-size: 16px;">Photo 3</p>
+  </div>
+  
+  <!-- 第四张图片 -->
+  <div style="text-align: center; flex: 1;">
+    <img src="../assets/img/hotpot.jpg" alt="Photo 4" style="width: 100%; border-radius: 10px;" />
+    <p style="margin-top: 5px; font-size: 16px;">Hotpot Lover</p>
+  </div>
+  
+  <!-- 第五张图片 -->
+  <div style="text-align: center; flex: 1;">
+    <img src="../assets/img/gym.jpg" alt="Photo 5" style="width: 100%; border-radius: 10px;" />
+    <p style="margin-top: 5px; font-size: 16px;">Trust me, I can lift heavier!</p>
+  </div>
+</div>
 
+
+<!--
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-top: 20px;">
     <img src="../assets/img/liaoning.jpg" alt="January 2025" style="width: 18%; border-radius: 10px;" />
     <img src="../assets/img/buffet.jpg" alt="Buffet Legend" style="width: 18%; border-radius: 10px;" />
     <img src="../assets/img/1.jpg" alt="Photo 3" style="width: 18%; border-radius: 10px;" />
     <img src="../assets/img/hotpot.jpg" alt="Photo 4" style="width: 18%; border-radius: 10px;" />
-    <img src="../assets/img/5.jpg" alt="Photo 5" style="width: 18%; border-radius: 10px;" />
+    <img src="../assets/img/gym.jpg" alt="Photo 5" style="width: 18%; border-radius: 10px;" />
   </div>
   
-<!--
+
 <br/>
 
 - I was born in Fushun, Liaoning, located in the northeast region of China.
