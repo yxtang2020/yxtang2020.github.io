@@ -56,8 +56,8 @@ nav_order: 5
   
   <!-- 第三张图片 -->
   <div style="text-align: center; flex: 1;">
-    <img src="../assets/img/1.jpg" alt="Photo 3" style="width: 100%; border-radius: 10px;" />
-    <p style="margin-top: 5px; font-size: 16px;">Photo 3</p>
+    <img src="../assets/img/food.jpg" alt="Photo 3" style="width: 100%; border-radius: 10px;" />
+    <p style="margin-top: 5px; font-size: 16px;">My Cooking</p>
   </div>
   
   <!-- 第四张图片 -->
