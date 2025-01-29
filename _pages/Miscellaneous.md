@@ -24,20 +24,21 @@ nav_order: 5
 
 <br/>
 
-<div style="font-size: 18px; line-height: 1.6;">
-  <div style="font-size: 22px;  margin-bottom: 10px;">
-     More About Me
+<div style="font-size: 18px; line-height: 1.8;">
+  <div style="font-size: 22px; margin-bottom: 10px;">
+    More About Me
   </div>
   <div>
-    <ul>
-      <li>I was born in Fushun, Liaoning, located in the northeast region of China.</li>
-      <li>During my PhD period, two of my friends are absolutely buffet killers (names upon request). Under their strict requirements and dedicated guidance, I am also on my way to becoming a buffet legend!</li>
-      <li> I enjoy being in the kitchen; cooking relaxes me. I'm confident I can make delicious dishes on my first try.</li>
-      <li> In my daily life, I enjoy eating healthy food, but I also love spicy hot pot.</li>
-      <li> Since 2023, I have been consistently doing strength training.</li>
+    <ul style="line-height: 2;">
+      <li style="margin-bottom: 10px;">I was born in Fushun, Liaoning, located in the northeast region of China.</li>
+      <li style="margin-bottom: 10px;">During my PhD period, two of my friends are absolutely buffet killers (names upon request). Under their strict requirements and dedicated guidance, I am also on my way to becoming a buffet legend!</li>
+      <li style="margin-bottom: 10px;">I enjoy being in the kitchen; cooking relaxes me. I'm confident I can make delicious dishes on my first try.</li>
+      <li style="margin-bottom: 10px;">In my daily life, I enjoy eating healthy food, but I also love spicy hot pot.</li>
+      <li>Since 2023, I have been consistently doing strength training.</li>
     </ul>
   </div>
 </div>
+
 
   
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; margin-top: 20px;">
