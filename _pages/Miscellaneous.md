@@ -9,29 +9,36 @@ nav_order: 5
 
 ---
 
-
-
-
-<p style="font-size: 22px;  margin-bottom: 10px;">Selected Honors and Awards
-
-- <p style="font-size: 18px">Finalist, POMS-HK Best Student Paper Award Competition, 2025
-- <p style="font-size: 18px">Third Prize, CSAMSE Best Paper Award Competition, 2023
-- <p style="font-size: 18px">NUS Research Scholarship, 2020-2024
-
-<!--
-- Second Prize, China High School Mathematical Olympiad (Provincial)
-- Third Prize, China High School Biology Olympiad (Provincial)
--->
+<div style="font-size: 18px; line-height: 1.6;">
+  <div style="font-size: 22px;  margin-bottom: 10px;">
+    Selected Honors and Awards
+  </div>
+  <div>
+    <ul>
+      <li>Finalist, POMS-HK Best Student Paper Award Competition, 2025</li>
+      <li>Third Prize, CSAMSE Best Paper Award Competition, 2023</li>
+      <li>NUS Research Scholarship, 2020-2024</li>
+    </ul>
+  </div>
+</div>
 
 <br/>
 
-<p style="font-size: 22px;  margin-bottom: 10px;"> More About Me
+<div style="font-size: 18px; line-height: 1.6;">
+  <div style="font-size: 22px;  margin-bottom: 10px;">
+     More About Me
+  </div>
+  <div>
+    <ul>
+      <li>I was born in Fushun, Liaoning, located in the northeast region of China.</li>
+      <li>During my PhD period, two of my friends are absolutely buffet killers (names upon request). Under their strict requirements and dedicated guidance, I am also on my way to becoming a buffet legend!</li>
+      <li> I enjoy being in the kitchen; cooking relaxes me. I'm confident I can make delicious dishes on my first try.</li>
+      <li> In my daily life, I enjoy eating healthy food, but I also love spicy hot pot.</li>
+      <li> Since 2023, I have been consistently doing strength training.</li>
+    </ul>
+  </div>
+</div>
 
-- <p style="line-height: 1.2; font-size: 18px"> I was born in Fushun, Liaoning, located in the northeast region of China.</p>
-- <p style="line-height: 1.2; font-size: 18px"> During my PhD period, two of my friends are absolutely buffet killers (names upon request). Under their strict requirements and dedicated guidance, I am also on my way to becoming a buffet legend!</p>
-- <p style="line-height: 1.2; font-size: 18px"> I enjoy being in the kitchen; cooking relaxes me. I'm confident I can make delicious dishes on my first try.</p>
-- <p style="line-height: 1.2; font-size: 18px"> In my daily life, I enjoy eating healthy food, but I also love spicy hot pot.</p>
-- <p style="line-height: 1.2; font-size: 18px"> Since 2023, I have been consistently doing strength training.</p>
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-top: 20px;">
     <img src="../assets/img/liaoning.jpg" alt="January 2025" style="width: 18%; border-radius: 10px;" />
