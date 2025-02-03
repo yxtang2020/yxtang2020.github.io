@@ -39,8 +39,14 @@ Prior to joining NUS, I received my master's degree in Industrial Engineering an
 <br/>
 <br/>
 
-For more information, please refer to my CV.
+For more information, please refer to my CV
 <br/>
+
+<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=tMtgBPcAAAAJ&gmla=AGd7smHeaXnLFr4f572hoHvTRMlNKTDQ-I-evXdY78Kj3kjzki8vUC-FeIro_vcCJKLG-CfhyIURPNGPp55S1JZV6MPuJKCOHF5e6dDNXdXH">Google Scholar</a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/yuxuan-t-a700b0146/">LinkedIn</a> 
+
+<br/>
+
+
 <br/>
 
 </div>
