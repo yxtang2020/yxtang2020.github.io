@@ -2,17 +2,17 @@
 layout: page
 permalink: /research/
 title: Research
-description: A commitment to data-driven, practice-oriented, and interdisciplinary research.
+description: Overall, I am committed to data-driven, practice-oriented, and interdisciplinary research.
 nav: true
 nav_order: 2
 ---
 
 <div style="font-size: 18px; line-height: 1.6;">
   <div>
-    <strong>Methodologies:</strong> Machine Learning, AI, Data-Driven Modeling, Sequential Experimental Design, Choice Modeling
+    <strong>Methodologies:</strong> Machine Learning, AI, Sequential Experimental Design, Choice Modeling, Data-Driven Modeling
   </div>
   <div>
-    <strong>Applications:</strong> Preference Learning, Retailing, Revenue Management
+    <strong>Applications:</strong> Preference Learning, E-commerce, Revenue Management
   </div>
 
   <hr style="margin-top: 15px; margin-bottom: 15px;" />
@@ -59,6 +59,7 @@ nav_order: 2
           Under Revision at <strong>Management Science</strong>
           <ul style="margin-top: 5px;">
             <li>Preliminary version accepted at Advances in Neural Information Processing Systems 35 (NeurIPS '22), 2022</li>
+            <li>Featured in EC25 Workshop on New Directions in Social Choice (Spotlight)</li>
             <li>Finalist, POMS-HK Best Student Paper Award Competition, 2025</li>
             <li>Third Prize, CSAMSE Best Paper Award Competition, 2023</li>
           </ul>
