@@ -11,6 +11,7 @@ nav_order: 3
 
 #### Add to Order in Contingent Free Shipping on Online Grocery Platforms
 
+- INFORMS International Meeting 2025, Singapore, Jul., 2025
 - POMS-HK 2025, Hong Kong, Jan., 2025
 - INFORMS Annual Meeting 2024, Seattle, Washington, Oct., 2024
 
@@ -21,9 +22,9 @@ nav_order: 3
 - POMS-HK 2025, Hong Kong, Jan., 2025
 - POMS-HK 2024, Hong Kong, Jan., 2024
 - INFORMS Annual Meeting 2023, Phoenix, Arizona, Oct., 2023
-- The 15th CSAMSE International Conference, Shenzhen, China, July, 2023
+- The 15th CSAMSE International Conference, Shenzhen, China, Jul., 2023
 - POMS-HK 2023, virtual, Jan., 2023
 - NeurIPS 2022, New Orleans, United States, Nov. 2022
 - 2022 Analytics for X Conference, Singapore, Sep., 2022
-- The 14th CSAMSE International Conference, virtual, July, 2022
-- RM&P (INFORMS Revenue Management and Pricing Section Conference), virtual, June, 2022
+- The 14th CSAMSE International Conference, virtual, Jul., 2022
+- RM&P (INFORMS Revenue Management and Pricing Section Conference), virtual, Jun., 2022
