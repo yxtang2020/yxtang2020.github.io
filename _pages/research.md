@@ -9,7 +9,7 @@ nav_order: 2
 
 <div style="font-size: 18px; line-height: 1.6;">
   <div>
-    <strong>Methodologies:</strong> Machine Learning, AI, Sequential Experimental Design, Choice Modeling, Data-Driven Modeling
+    <strong>Methodologies:</strong> ML/AI, Sequential Experimental Design, Choice Modeling, Data-Driven Modeling
   </div>
   <div>
     <strong>Applications:</strong> Preference Learning, E-commerce, Revenue Management
