@@ -58,7 +58,7 @@ nav_order: 2
         <div style="font-size: 16px;">
           Under Revision at <strong>Management Science</strong>
           <ul style="margin-top: 5px;">
-            <li>Preliminary version accepted at Advances in Neural Information Processing Systems 35 (NeurIPS '22), 2022</li>
+            <li>Preliminary version accepted at NeurIPS, 2022</li>
             <li>Featured in EC25 Workshop on New Directions in Social Choice (Spotlight)</li>
             <li>Finalist, POMS-HK Best Student Paper Award Competition, 2025</li>
             <li>Third Prize, CSAMSE Best Paper Award Competition, 2023</li>
@@ -76,7 +76,6 @@ nav_order: 2
         <div style="font-size: 16px;">
         </div>
       </li>
-      <br />
       <li style="margin-top: 10px;">
         <div style="margin-bottom: 10px;">
           Beyond Pairwise: Empowering LLM Alignment with (Ranked) Choice Modeling, with 
@@ -101,15 +100,12 @@ nav_order: 2
         <a href="https://www.linkedin.com/in/shuo-wang-942aa8b9/">Shuo Wang</a>
       </li>
     </ul>
-  </div>
-  <br />
-  <div>
+    <br />
     <ul style="margin: 0; padding-left: 10px;">
       <li>
         Preference Modeling on Directed Acyclic Graph with the Mallows–RMJ Model.
       </li>
     </ul>
-  </div>
 </div>
 
 
