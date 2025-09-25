@@ -91,22 +91,21 @@ nav_order: 2
   <div>
     <h3 style="font-size: 24px; margin-bottom: 10px;">Work in Progress</h3>
   </div>
-
+  
   <div>
-    <ul style="margin: 0; padding-left: 20px;">
-      <li>
-        Parameterizing the DAG-based Preference with Optimal Pricing Decision, with 
-        <a href="https://sites.google.com/site/lixiaobohome/home?authuser=1">Xiaobo Li</a> and 
-        <a href="https://www.linkedin.com/in/shuo-wang-942aa8b9/">Shuo Wang</a>
-      </li>
-    </ul>
-    <br />
-    <ul style="margin: 0; padding-left: 10px;">
-      <li>
-        Preference Modeling on Directed Acyclic Graph with the Mallows–RMJ Model.
-      </li>
-    </ul>
-</div>
+  <ul style="margin: 0; padding-left: 20px;">
+    <li>
+      Parameterizing the DAG-based Preference with Optimal Pricing Decision, with 
+      <a href="https://sites.google.com/site/lixiaobohome/home?authuser=1">Xiaobo Li</a> and 
+      <a href="https://www.linkedin.com/in/shuo-wang-942aa8b9/">Shuo Wang</a>
+    </li>
+    <li>
+      Preference Modeling on Directed Acyclic Graph with the Mallows–RMJ Model.
+    </li>
+  </ul>
+  </div>
+
+ 
 
 
 <!--
