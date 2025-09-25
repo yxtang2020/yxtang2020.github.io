@@ -9,10 +9,10 @@ nav_order: 2
 
 <div style="font-size: 18px; line-height: 1.6;">
   <div>
-    <strong>Methodologies:</strong> ML/AI, Sequential Experimental Design, Choice Modeling, Data-Driven Modeling
+    <strong>Methodologies:</strong> ML/AI, Choice Modeling, Active Learning, Data-Driven Modeling
   </div>
   <div>
-    <strong>Applications:</strong> Preference Learning, E-commerce, Revenue Management
+    <strong>Applications:</strong> LLM Fine-tuning, Preference Learning, E-commerce
   </div>
 
   <hr style="margin-top: 15px; margin-bottom: 15px;" />
@@ -50,7 +50,7 @@ nav_order: 2
         <div style="margin-bottom: 10px;">
           <strong>
             <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4539900">
-              A Mallows-type Model for Preference Learning from (Ranked) Choices
+              A Mallows-type Model for Preference Learning from Ranked Choices
             </a>
           </strong>, with
           <a href="https://sites.google.com/view/yifanfeng/?pli=1&authuser=1">Yifan Feng</a><br />
@@ -74,7 +74,15 @@ nav_order: 2
           <a href="https://isom.hkust.edu.hk/faculty-and-staff/directory/xuanwang">Xuan Wang</a><br />
         </div>
         <div style="font-size: 16px;">
-          Under Review
+        </div>
+      </li>
+      <br />
+      <li style="margin-top: 10px;">
+        <div style="margin-bottom: 10px;">
+          Beyond Pairwise: Empowering LLM Alignment with (Ranked) Choice Modeling, with 
+          <a href="https://sites.google.com/view/yifanfeng/?pli=1&authuser=1">Yifan Feng</a><br />
+        </div>
+        <div style="font-size: 16px;">
         </div>
       </li>
     </ul>
@@ -91,6 +99,14 @@ nav_order: 2
         Parameterizing the DAG-based Preference with Optimal Pricing Decision, with 
         <a href="https://sites.google.com/site/lixiaobohome/home?authuser=1">Xiaobo Li</a> and 
         <a href="https://www.linkedin.com/in/shuo-wang-942aa8b9/">Shuo Wang</a>
+      </li>
+    </ul>
+  </div>
+  <br />
+  <div>
+    <ul style="margin: 0; padding-left: 10px;">
+      <li>
+        Preference Modeling on Directed Acyclic Graph with the Mallows–RMJ Model.
       </li>
     </ul>
   </div>
