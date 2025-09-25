@@ -23,13 +23,9 @@ social: false # includes social icons at the bottom of the page
 ---
 <div style="font-size: 18px;">
   
-Hello! This is Yuxuan, <br>
-a fifth-year Ph.D. candidate,<br>
-in <a href="https://iora.nus.edu.sg/">Institute of Operations Research and Analytics (IORA)</a> ,<br>
-at the National University of Singapore (NUS).
+I am a final year Ph.D. candidate in <a href="https://iora.nus.edu.sg/">Institute of Operations Research and Analytics (IORA)</a> at the National University of Singapore (NUS). 
 <br/>
 <br/>
-
 My advisors are <a href="https://sites.google.com/view/yifanfeng/?pli=1&authuser=1">Prof. Yifan Feng</a> and 
 <a href="https://sites.google.com/site/lixiaobohome/home?authuser=1">Prof. Xiaobo Li</a>.
 <br/>
