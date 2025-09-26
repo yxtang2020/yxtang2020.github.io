@@ -76,14 +76,6 @@ nav_order: 2
         <div style="font-size: 16px;">
         </div>
       </li>
-      <li style="margin-top: 10px;">
-        <div style="margin-bottom: 10px;">
-          Beyond Pairwise: Empowering LLM Alignment with (Ranked) Choice Modeling, with 
-          <a href="https://sites.google.com/view/yifanfeng/?pli=1&authuser=1">Yifan Feng</a><br />
-        </div>
-        <div style="font-size: 16px;">
-        </div>
-      </li>
     </ul>
   </div>
 
