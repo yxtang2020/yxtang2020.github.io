@@ -9,10 +9,10 @@ nav_order: 2
 
 <div style="font-size: 18px; line-height: 1.6;">
   <div>
-    <strong>Methodologies:</strong> ML/AI, Choice Modeling, Active Learning, Data-Driven Modeling
+    <strong>Methodologies:</strong> AI/ML, Choice Modeling, Active Learning, Data-Driven Modeling
   </div>
   <div>
-    <strong>Applications:</strong> LLM Fine-tuning, Preference Learning, E-commerce
+    <strong>Applications:</strong> LLM Post-training, Preference Learning, E-commerce
   </div>
 
   <hr style="margin-top: 15px; margin-bottom: 15px;" />
@@ -56,13 +56,26 @@ nav_order: 2
           <a href="https://sites.google.com/view/yifanfeng/?pli=1&authuser=1">Yifan Feng</a><br />
         </div>
         <div style="font-size: 16px;">
-          Under Revision at <strong>Management Science</strong>
+          Under Second Round Revision at <strong>Management Science</strong>
           <ul style="margin-top: 5px;">
             <li>Preliminary version accepted at NeurIPS, 2022</li>
             <li>Featured in EC25 Workshop on New Directions in Social Choice (Spotlight)</li>
             <li>Finalist, POMS-HK Best Student Paper Award Competition, 2025</li>
             <li>Third Prize, CSAMSE Best Paper Award Competition, 2023</li>
           </ul>
+        </div>
+      </li>
+      <br />
+      <li style="margin-top: 10px;">
+        <div style="margin-bottom: 10px;">
+          <strong>
+            <a href="https://arxiv.org/abs/2510.23631">
+              Beyond Pairwise: Empowering LLM Alignment With Ranked Choice Modeling
+            </a>
+          </strong>, with
+          <a href="https://sites.google.com/view/yifanfeng/?pli=1&authuser=1">Yifan Feng</a><br />
+        </div>
+        <div style="font-size: 16px;">
         </div>
       </li>
       <br />
