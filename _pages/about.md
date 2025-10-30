@@ -35,7 +35,9 @@ Prior to joining NUS, I received my master's degree in Industrial Engineering an
 <br/>
 <br/>
 
+<!--
 For more information, please refer to my CV.
+-->
 
 <br/>
 
