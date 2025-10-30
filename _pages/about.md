@@ -35,7 +35,9 @@ Prior to joining NUS, I received my master's degree in Industrial Engineering an
 <br/>
 <br/>
 
-**I am actively seeking a postdoctoral position. Any information or recommendations would be greatly appreciated!**
+<strong>I am actively seeking a postdoctoral position. Any information or recommendations would be greatly appreciated!</strong> 
+<br/>
+<br/>
 
 <!--
 For more information, please refer to my CV.
