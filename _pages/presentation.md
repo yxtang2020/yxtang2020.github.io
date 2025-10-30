@@ -9,6 +9,12 @@ nav_order: 3
 
 ---
 
+#### Beyond Pairwise: Empowering LLM Alignment With Ranked Choice Modeling
+
+- INFORMS Annual Meeting 2025, Atlanta, Georgia, Oct., 2025
+
+<br/>
+
 #### Add to Order in Contingent Free Shipping on Online Grocery Platforms
 
 - INFORMS International Meeting 2025, Singapore, Jul., 2025
