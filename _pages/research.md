@@ -2,10 +2,17 @@
 layout: page
 permalink: /research/
 title: Research
-description: Overall, I am committed to data-driven, practice-oriented, and interdisciplinary research.
+description: 
 nav: true
 nav_order: 2
 ---
+
+<em>What I’m most proud of and happiest about is that <strong>every</strong> project I’ve worked on began from genuine curiosity and interest, not just because it was something I could do. I’m deeply grateful to my advisors for their constant support and understanding.</em>
+
+<br/>
+
+Overall, I am committed to data-driven, practice-oriented, and interdisciplinary research.
+<br/>
 
 <div style="font-size: 18px; line-height: 1.6;">
   <div>
@@ -14,6 +21,10 @@ nav_order: 2
   <div>
     <strong>Applications:</strong> LLM Post-training, Preference Learning, E-commerce
   </div>
+
+
+
+
 
   <hr style="margin-top: 15px; margin-bottom: 15px;" />
 
