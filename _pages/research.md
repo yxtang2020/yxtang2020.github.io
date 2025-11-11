@@ -7,9 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-<em>What I’m most proud of and happiest about is that <strong>every</strong> project I’ve worked on began from genuine curiosity and interest, not just because it was something I could do. I’m deeply grateful to my advisors for their constant support and understanding.</em>
 
-<br/>
 
 Overall, I am committed to data-driven, practice-oriented, and interdisciplinary research.
 <br/>
