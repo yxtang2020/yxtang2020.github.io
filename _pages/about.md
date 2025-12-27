@@ -31,6 +31,12 @@ My advisors are <a href="https://sites.google.com/view/yifanfeng/?pli=1&authuser
 <br/>
 <br/>
 
+
+I am currently visiting <a href="https://isom.hkust.edu.hk/faculty-and-staff/directory/xuanwang">Prof. Xuan Wang </a> in the ISOM Department at HKUST from December 2025 to June 2026.
+<br/>
+<br/>
+
+
 Prior to joining NUS, I received my master's degree in Industrial Engineering and Operations Research <a href="https://ieor.columbia.edu/">(IEOR)</a> at Columbia University and my bachelor's degree in Financial Engineering <a href="https://sme.nju.edu.cn/main.htm">(School of Management and Engineering)</a> from Nanjing University.
 <br/>
 <br/>
