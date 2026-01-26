@@ -89,6 +89,20 @@ Overall, I am committed to data-driven, practice-oriented, and interdisciplinary
         </div>
       </li>
       <br />
+      <li>
+        <div style="margin-bottom: 10px;">
+          <strong>
+            <a href="https://arxiv.org/abs/2510.23631">
+              Beyond Pairwise: Empowering LLM Alignment With Ranked Choice Modeling
+            </a>
+          </strong>, with
+          <a href="https://sites.google.com/view/yifanfeng/?pli=1&authuser=1">Yifan Feng</a><br />
+        </div>
+        <ul style="margin-top: 5px;">
+            <li>Preliminary version accepted at ICLR, 2026</li>
+          </ul>
+      </li>
+      <br />
       <li style="margin-top: 10px;">
         <div style="margin-bottom: 10px;">
           Add to Order in Contingent Free Shipping on Online Grocery Platforms, with 
