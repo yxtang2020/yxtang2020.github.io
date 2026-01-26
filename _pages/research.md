@@ -35,6 +35,20 @@ Overall, I am committed to data-driven, practice-oriented, and interdisciplinary
       <li>
         <div style="margin-bottom: 10px;">
           <strong>
+            <a href="https://arxiv.org/abs/2510.23631">
+              Beyond Pairwise: Empowering LLM Alignment With Ranked Choice Modeling
+            </a>
+          </strong>, with
+          <a href="https://sites.google.com/view/yifanfeng/?pli=1&authuser=1">Yifan Feng</a><br />
+        </div>
+        <div style="font-size: 16px;">
+          The Fourteenth International Conference on Learning Representations (<strong>ICLR '26</strong>)
+        </div>
+      </li>
+      <br />
+      <li> 
+        <div style="margin-bottom: 10px;">
+          <strong>
             <a href="https://papers.nips.cc/paper_files/paper/2022/hash/145c28cd4b1df9b426990fd68045f4f7-Abstract-Conference.html">
               On a Mallows-type Model for (Ranked) Choices
             </a>
@@ -72,19 +86,6 @@ Overall, I am committed to data-driven, practice-oriented, and interdisciplinary
             <li>Finalist, POMS-HK Best Student Paper Award Competition, 2025</li>
             <li>Third Prize, CSAMSE Best Paper Award Competition, 2023</li>
           </ul>
-        </div>
-      </li>
-      <br />
-      <li style="margin-top: 10px;">
-        <div style="margin-bottom: 10px;">
-          <strong>
-            <a href="https://arxiv.org/abs/2510.23631">
-              Beyond Pairwise: Empowering LLM Alignment With Ranked Choice Modeling
-            </a>
-          </strong>, with
-          <a href="https://sites.google.com/view/yifanfeng/?pli=1&authuser=1">Yifan Feng</a><br />
-        </div>
-        <div style="font-size: 16px;">
         </div>
       </li>
       <br />
