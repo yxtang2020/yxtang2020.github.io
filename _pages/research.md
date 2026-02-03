@@ -9,15 +9,21 @@ nav_order: 2
 
 
 
-Overall, I am committed to data-driven, practice-oriented, and interdisciplinary research.
+
+
+Overall, I am committed to **data-driven**, **practice-oriented**, and **interdisciplinary** research.
 <br/>
 
 <div style="font-size: 18px; line-height: 1.6;">
   <div>
-    <strong>Methodologies:</strong> AI/ML, Choice Modeling, Active Learning, Data-Driven Modeling
+    <strong>Methodologies:</strong> AI/ML, Ranking/Choice Modeling, Active Learning, Data-Driven Modeling
   </div>
   <div>
-    <strong>Applications:</strong> LLM Post-training, Preference Learning, E-commerce
+    <strong>Applications:</strong> LLM Post-training, Human Preference Learning, E-commerce
+  </div>
+  <br/>
+  <div>
+    <strong>Recent New Interests:</strong> AI agents, Human-AI Collaboration
   </div>
 
 
@@ -81,21 +87,17 @@ Overall, I am committed to data-driven, practice-oriented, and interdisciplinary
         <div style="font-size: 16px;">
           Under Second Round Revision at <strong>Management Science</strong>
           <ul style="margin-top: 5px;">
-            <li>Preliminary version accepted at NeurIPS, 2022</li>
-            <li>Featured in EC25 Workshop on New Directions in Social Choice (Spotlight)</li>
+            <li>Featured in EC25 Workshop on New Directions in Social Choice (Spotlight), 2025</li>
             <li>Finalist, POMS-HK Best Student Paper Award Competition, 2025</li>
             <li>Third Prize, CSAMSE Best Paper Award Competition, 2023</li>
+            <li>Preliminary version accepted at NeurIPS, 2022</li>
           </ul>
         </div>
       </li>
       <br />
       <li>
         <div style="margin-bottom: 10px;">
-          <strong>
-            <a href="https://arxiv.org/abs/2510.23631">
-              Beyond Pairwise: Empowering LLM Alignment With Ranked Choice Modeling
-            </a>
-          </strong>, with
+              Beyond Pairwise: Empowering LLM Alignment With Ranked Choice Modeling, with
           <a href="https://sites.google.com/view/yifanfeng/?pli=1&authuser=1">Yifan Feng</a><br />
         </div>
         <ul style="margin-top: 5px;">
@@ -134,7 +136,7 @@ Overall, I am committed to data-driven, practice-oriented, and interdisciplinary
   </ul>
   </div>
 
- 
+
 
 
 <!--
