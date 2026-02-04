@@ -20,7 +20,6 @@ nav_order: 3
 
 - INFORMS International Meeting 2025, Singapore, Jul., 2025
 - POMS-HK 2025, Hong Kong, Jan., 2025
-- INFORMS Annual Meeting 2024, Seattle, Washington, Oct., 2024
 
 <br/>
 
