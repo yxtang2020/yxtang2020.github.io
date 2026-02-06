@@ -16,16 +16,13 @@ Overall, I am committed to **data-driven**, **practice-oriented**, and **interdi
 
 <div style="font-size: 18px; line-height: 1.6;">
   <div>
-    <strong>Methodologies:</strong> AI/ML, Ranking/Choice Modeling, Active Learning, Data-Driven Modeling
+    <strong>Methodologies:</strong> AI/ML, Ranking/Choice Model, Active Learning, Data-Driven Modeling
   </div>
   <div>
     <strong>Applications:</strong> LLM Post-training, Human Preference Learning, E-commerce
   </div>
   <br/>
-  <div>
-    <strong>Recent New Interests:</strong> AI agents, Human-AI Collaboration
-  </div>
-
+  
 
 
 
